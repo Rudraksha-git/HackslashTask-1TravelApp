@@ -22,3 +22,6 @@ So, I adopted topdown approach starting from appbar.
 
 4. Third problem was rounded corners and icon (specially their names), which was solved by 
    recommendations from Gemini.
+
+Improvements: I would like to add functionality to widgets, fare calculation for different number
+of days.
